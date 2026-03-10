@@ -5,6 +5,7 @@
     @if (config('lk.only_modal')) data-modal-open="lk-modal" 
     @else
         hx-get="{{ url('lk') }}"
+        hx-push-url="true"
         hx-target="#main"
         hx-swap="outerHTML transition:true"
         hx-trigger="click" @endif>

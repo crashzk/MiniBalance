@@ -8,7 +8,7 @@ Module for displaying a small balance in the Navbar of the site (depends on the 
 
 Download the latest release and install it via the Flute CMS admin panel.
 
-Current version: **1.0.3**
+Current version: **1.0.4**
 
 ## Authors
 
